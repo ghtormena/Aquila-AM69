@@ -1,0 +1,21 @@
+name: env_npu_311
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - tqdm
+  - matplotlib
+  - opencv
+  - onnx
+  - onnxruntime
+  - ipywidgets
+  - pillow
+  - jupyter
+  - jupyterlab
+  - pip:
+      - munkres
+      - git+https://github.com/TexasInstruments/edgeai-tensorlab.git#subdirectory=edgeai-benchmark

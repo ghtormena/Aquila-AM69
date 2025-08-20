@@ -1,0 +1,32 @@
+info: {}
+categories:
+- id: 0
+  supercategory: 0
+  name: background
+- id: 1
+  name: corrosao
+color_map:
+- - 0
+  - 0
+  - 0
+- - 0
+  - 0
+  - 255
+- - 0
+  - 255
+  - 0
+- - 0
+  - 255
+  - 255
+- - 255
+  - 0
+  - 0
+- - 255
+  - 0
+  - 255
+- - 255
+  - 255
+  - 0
+- - 255
+  - 255
+  - 255

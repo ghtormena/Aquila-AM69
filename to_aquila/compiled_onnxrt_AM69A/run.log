@@ -1,0 +1,558 @@
+
+INFO:20250703-134014: running - ss-8710
+INFO:20250703-134014: pipeline_config - {'task_type': 'segmentation', 'dataset_category': 'cocoseg21', 'calibration_dataset': <edgeai_benchmark.datasets.modelmaker_datasets.ModelMakerSegmentationDataset object at 0x70c034903220>, 'input_dataset': <edgeai_benchmark.datasets.modelmaker_datasets.ModelMakerSegmentationDataset object at 0x70c033bbff40>, 'preprocess': <edgeai_benchmark.preprocess.PreProcessTransforms object at 0x70bf6713e800>, 'session': <edgeai_benchmark.sessions.onnxrt_session.ONNXRTSession object at 0x70bf67157070>, 'postprocess': <edgeai_benchmark.postprocess.PostProcessTransforms object at 0x70bf671923e0>, 'model_info': {'metric_reference': {'accuracy_mean_iou%': None}, 'model_shortlist': 20}, 'metric': {'label_offset_pred': 0}}
+INFO:20250703-134014: import  - ss-8710 - this may take some time...
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T   10284.01  .... ..... ... .... .....
+#    1 . .. T   10205.70  .... ..... ... .... .....
+#    2 . .. T   10203.72  .... ..... ... .... .....
+#    3 . .. T   10223.39  .... ..... ... .... .....
+#    4 . .. T   10220.58  .... ..... ... .... .....
+#    5 . .. T   10221.91  .... ..... ... .... .....
+#    6 . .. T   10229.59  .... ..... ... .... .....
+#    7 . .. T   10216.48  .... ..... ... .... .....
+#    8 . .. T   10212.88  .... ..... ... .... .....
+#    9 . .. T   10217.16  .... ..... ... .... .....
+#   10 . .. T   10211.64  .... ..... ... .... .....
+#   11 . .. T   10211.70  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    5378.53  .... ..... ... .... .....
+#    1 . .. T    5350.54  .... ..... ... .... .....
+#    2 . .. T    5352.52  .... ..... ... .... .....
+#    3 . .. T    5351.01  .... ..... ... .... .....
+#    4 . .. T    5345.84  .... ..... ... .... .....
+#    5 . .. T    5344.78  .... ..... ... .... .....
+#    6 . .. T    5345.08  .... ..... ... .... .....
+#    7 . .. T    5342.53  .... ..... ... .... .....
+#    8 . .. T    5345.03  .... ..... ... .... .....
+#    9 . .. T    5343.94  .... ..... ... .... .....
+#   10 . .. T    5345.24  .... ..... ... .... .....
+#   11 . .. T    5348.91  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    5329.07  .... ..... ... .... .....
+#    1 . .. T    5307.87  .... ..... ... .... .....
+#    2 . .. T    5305.77  .... ..... ... .... .....
+#    3 . .. T    5305.62  .... ..... ... .... .....
+#    4 . .. T    5307.48  .... ..... ... .... .....
+#    5 . .. T    5309.40  .... ..... ... .... .....
+#    6 . .. T    5306.57  .... ..... ... .... .....
+#    7 . .. T    5305.64  .... ..... ... .... .....
+#    8 . .. T    5307.88  .... ..... ... .... .....
+#    9 . .. T    5306.34  .... ..... ... .... .....
+#   10 . .. T    5308.71  .... ..... ... .... .....
+#   11 . .. T    5307.73  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    5365.95  .... ..... ... .... .....
+#    1 . .. T    5346.48  .... ..... ... .... .....
+#    2 . .. T    5344.46  .... ..... ... .... .....
+#    3 . .. T    5350.11  .... ..... ... .... .....
+#    4 . .. T    5347.93  .... ..... ... .... .....
+#    5 . .. T    5343.92  .... ..... ... .... .....
+#    6 . .. T    5343.73  .... ..... ... .... .....
+#    7 . .. T    5343.62  .... ..... ... .... .....
+#    8 . .. T    5344.21  .... ..... ... .... .....
+#    9 . .. T    5346.38  .... ..... ... .... .....
+#   10 . .. T    5342.98  .... ..... ... .... .....
+#   11 . .. T    5343.28  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    5220.69  .... ..... ... .... .....
+#    1 . .. T    5209.04  .... ..... ... .... .....
+#    2 . .. T    5198.40  .... ..... ... .... .....
+#    3 . .. T    5199.87  .... ..... ... .... .....
+#    4 . .. T    5210.91  .... ..... ... .... .....
+#    5 . .. T    5201.80  .... ..... ... .... .....
+#    6 . .. T    5202.82  .... ..... ... .... .....
+#    7 . .. T    5209.07  .... ..... ... .... .....
+#    8 . .. T    5204.17  .... ..... ... .... .....
+#    9 . .. T    5203.64  .... ..... ... .... .....
+#   10 . .. T    5201.58  .... ..... ... .... .....
+#   11 . .. T    5201.78  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    5390.55  .... ..... ... .... .....
+#    1 . .. T    5366.38  .... ..... ... .... .....
+#    2 . .. T    5367.43  .... ..... ... .... .....
+#    3 . .. T    5366.73  .... ..... ... .... .....
+#    4 . .. T    5374.31  .... ..... ... .... .....
+#    5 . .. T    5371.53  .... ..... ... .... .....
+#    6 . .. T    5377.40  .... ..... ... .... .....
+#    7 . .. T    5463.06  .... ..... ... .... .....
+#    8 . .. T    5446.55  .... ..... ... .... .....
+#    9 . .. T    5443.13  .... ..... ... .... .....
+#   10 . .. T    5448.95  .... ..... ... .... .....
+#   11 . .. T    5449.76  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    5282.34  .... ..... ... .... .....
+#    1 . .. T    5261.17  .... ..... ... .... .....
+#    2 . .. T    5272.94  .... ..... ... .... .....
+#    3 . .. T    5275.72  .... ..... ... .... .....
+#    4 . .. T    5267.20  .... ..... ... .... .....
+#    5 . .. T    5274.55  .... ..... ... .... .....
+#    6 . .. T    5263.75  .... ..... ... .... .....
+#    7 . .. T    5265.62  .... ..... ... .... .....
+#    8 . .. T    5263.13  .... ..... ... .... .....
+#    9 . .. T    5272.69  .... ..... ... .... .....
+#   10 . .. T    5270.95  .... ..... ... .... .....
+#   11 . .. T    5549.25  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    6223.81  .... ..... ... .... .....
+#    1 . .. T    6245.83  .... ..... ... .... .....
+#    2 . .. T    6060.94  .... ..... ... .... .....
+#    3 . .. T    6147.36  .... ..... ... .... .....
+#    4 . .. T    6497.26  .... ..... ... .... .....
+#    5 . .. T    5717.66  .... ..... ... .... .....
+#    6 . .. T    5838.58  .... ..... ... .... .....
+#    7 . .. T    6100.10  .... ..... ... .... .....
+#    8 . .. T    5421.81  .... ..... ... .... .....
+#    9 . .. T    5568.21  .... ..... ... .... .....
+#   10 . .. T    5956.61  .... ..... ... .... .....
+#   11 . .. T    5944.97  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    7525.75  .... ..... ... .... .....
+#    1 . .. T    7102.36  .... ..... ... .... .....
+#    2 . .. T    6812.58  .... ..... ... .... .....
+#    3 . .. T    6357.79  .... ..... ... .... .....
+#    4 . .. T    6793.44  .... ..... ... .... .....
+#    5 . .. T    6591.50  .... ..... ... .... .....
+#    6 . .. T    6270.74  .... ..... ... .... .....
+#    7 . .. T    6479.97  .... ..... ... .... .....
+#    8 . .. T    7000.41  .... ..... ... .... .....
+#    9 . .. T    7083.86  .... ..... ... .... .....
+#   10 . .. T    7400.10  .... ..... ... .... .....
+#   11 . .. T    6483.31  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    5972.45  .... ..... ... .... .....
+#    1 . .. T    6018.91  .... ..... ... .... .....
+#    2 . .. T    6176.50  .... ..... ... .... .....
+#    3 . .. T    6266.31  .... ..... ... .... .....
+#    4 . .. T    6495.83  .... ..... ... .... .....
+#    5 . .. T    6051.53  .... ..... ... .... .....
+#    6 . .. T    6129.41  .... ..... ... .... .....
+#    7 . .. T    5761.62  .... ..... ... .... .....
+#    8 . .. T    6359.37  .... ..... ... .... .....
+#    9 . .. T    5900.91  .... ..... ... .... .....
+#   10 . .. T    5809.73  .... ..... ... .... .....
+#   11 . .. T    6577.16  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    5882.71  .... ..... ... .... .....
+#    1 . .. T    6048.58  .... ..... ... .... .....
+#    2 . .. T    5741.01  .... ..... ... .... .....
+#    3 . .. T    6083.16  .... ..... ... .... .....
+#    4 . .. T    6145.53  .... ..... ... .... .....
+#    5 . .. T    6222.76  .... ..... ... .... .....
+#    6 . .. T    6123.57  .... ..... ... .... .....
+#    7 . .. T    6246.17  .... ..... ... .... .....
+#    8 . .. T    5917.53  .... ..... ... .... .....
+#    9 . .. T    6092.53  .... ..... ... .... .....
+#   10 . .. T    6265.27  .... ..... ... .... .....
+#   11 . .. T    6511.85  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    5768.54  .... ..... ... .... .....
+#    1 . .. T    6239.32  .... ..... ... .... .....
+#    2 . .. T    6344.36  .... ..... ... .... .....
+#    3 . .. T    6610.33  .... ..... ... .... .....
+#    4 . .. T    6129.59  .... ..... ... .... .....
+#    5 . .. T    5925.83  .... ..... ... .... .....
+#    6 . .. T    5958.76  .... ..... ... .... .....
+#    7 . .. T    6399.94  .... ..... ... .... .....
+#    8 . .. T    6305.77  .... ..... ... .... .....
+#    9 . .. T    6424.07  .... ..... ... .... .....
+#   10 . .. T    5505.25  .... ..... ... .... .....
+#   11 . .. T    6452.16  .... ..... ... .... .....
+Processing config file #0 : /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_io_.qunat_stats_config.txt 
+ Freeing memory for user provided Net
+ ----------------------- TIDL Process with REF_ONLY FLOW ------------------------
+
+#    0 . .. T    6471.41  .... ..... ... .... .....
+#    1 . .. T    6106.94  .... ..... ... .... .....
+#    2 . .. T    6337.62  .... ..... ... .... .....
+#    3 . .. T    5901.44  .... ..... ... .... .....
+#    4 . .. T    5703.53  .... ..... ... .... .....
+#    5 . .. T    5975.62  .... ..... ... .... .....
+#    6 . .. T    6275.74  .... ..... ... .... .....
+#    7 . .. T    6190.30  .... ..... ... .... .....
+#    8 . .. T    6163.08  .... ..... ... .... .....
+#    9 . .. T    6228.80  .... ..... ... .... .....
+#   10 . .. T    5922.86  .... ..... ... .... .....
+#   11 . .. T    5581.97  .... ..... ... .... .....
+------------------ Network Compiler Traces -----------------------------
+NC running for device: 1
+Running with OTF buffer optimizations
+successful Memory allocation
+================================ import model =============
+
+Preliminary subgraphs created = 1 
+Final number of subgraphs created are : 1, - Offloaded Nodes - 124, Total Nodes - 124 
+ Graph Domain TO version : 11Warning : Requested Output Data Convert Layer is not Added to the network, It is currently not Optimal
+
+ ************** Frame index 1 : Running float import ************* 
+INFORMATION: [TIDL_ResizeLayer] /decoders.0/upsample1/Resize Any resize ratio which is power of 2 and greater than 4 will be placed by combination of 4x4 resize layer and 2x2 resize layer. For example a 8x8 resize will be replaced by 4x4 resize followed by 2x2 resize.
+INFORMATION: [TIDL_ResizeLayer] /decoders.0/upsample2/Resize Any resize ratio which is power of 2 and greater than 4 will be placed by combination of 4x4 resize layer and 2x2 resize layer. For example a 8x8 resize will be replaced by 4x4 resize followed by 2x2 resize.
+****************************************************
+**          2 WARNINGS          0 ERRORS          **
+****************************************************
+The soft limit is 2048
+The hard limit is 2048
+MEM: Init ... !!!
+MEM: Init ... Done !!!
+ 0.0s:  VX_ZONE_INIT:Enabled
+ 0.4s:  VX_ZONE_ERROR:Enabled
+ 0.5s:  VX_ZONE_WARNING:Enabled
+ 0.3093s:  VX_ZONE_INIT:[tivxInit:185] Initialization Done !!!
+
+**********  Frame Index 1 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 2 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 3 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 4 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 5 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 6 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 7 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 8 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 9 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 10 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 11 : Running float inference **********
+ Graph Domain TO version : 11
+**********  Frame Index 12 : Running fixed point mode for calibration **********
+Asymmetric quantization with calib = 4
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 0 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 0 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 1 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 1 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 2 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 2 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 3 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 3 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 4 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 4 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 5 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 5 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 6 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 6 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 7 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 7 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 8 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 8 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 9 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 9 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 10 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 10 completed ************************ 
+ 
+ 
+ 
+
+ 
+ 
+ *****************   Calibration iteration number 11 started ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+
+~~~~~Running TIDL in PC emulation mode to collect Activations range for each layer~~~~~
+
+ 
+ 
+ *****************   Calibration iteration number 11 completed ************************ 
+ 
+ 
+ 
+Parameters unavailable, running calibration!
+Output network quant params prototxt file path: /opt/EdgeAIRoot/18423504/projects/25cd3020/run/20250702-165413/deeplabv3plus_mobilenetv2_tv_edgeailite/compilation/AM69A/work/ss-8710/artifacts/tempDir/556TIDL_cast_out_tidl_net_quant_params.prototxt
+Calibrated Quant Parameters stored in protoTxt format
+INFORMATION: [TIDL_ResizeLayer] /decoders.0/upsample1/Resize Any resize ratio which is power of 2 and greater than 4 will be placed by combination of 4x4 resize layer and 2x2 resize layer. For example a 8x8 resize will be replaced by 4x4 resize followed by 2x2 resize.
+INFORMATION: [TIDL_ResizeLayer] /decoders.0/upsample2/Resize Any resize ratio which is power of 2 and greater than 4 will be placed by combination of 4x4 resize layer and 2x2 resize layer. For example a 8x8 resize will be replaced by 4x4 resize followed by 2x2 resize.
+****************************************************
+**          2 WARNINGS          0 ERRORS          **
+****************************************************
+
+INFO:20250703-140508: import completed  - ss-8710 - 1494 sec
+
+SUCCESS:20250703-140508: benchmark results - {}
+
+INFO:20250703-140508: running - ss-8710
+INFO:20250703-140508: pipeline_config - {'task_type': 'segmentation', 'dataset_category': 'cocoseg21', 'calibration_dataset': <edgeai_benchmark.datasets.modelmaker_datasets.ModelMakerSegmentationDataset object at 0x70c034903220>, 'input_dataset': <edgeai_benchmark.datasets.modelmaker_datasets.ModelMakerSegmentationDataset object at 0x70c033bbff40>, 'preprocess': <edgeai_benchmark.preprocess.PreProcessTransforms object at 0x70bf6713e800>, 'session': <edgeai_benchmark.sessions.onnxrt_session.ONNXRTSession object at 0x70bf67157070>, 'postprocess': <edgeai_benchmark.postprocess.PostProcessTransforms object at 0x70bf671923e0>, 'model_info': {'metric_reference': {'accuracy_mean_iou%': None}, 'model_shortlist': 20}, 'metric': {'label_offset_pred': 0}}
+INFO:20250703-140508: infer  - ss-8710 - this may take some time...
+infer : ss-8710                                             |   0%|          || 0/134 [00:00<?, ?it/s]
+infer : ss-8710                                             |          |     0% 0/134| [< ]
+infer : ss-8710                                             |   1%|1         || 2/134 [00:16<17:42,  8.05s/it]
+infer : ss-8710                                             |   3%|2         || 4/134 [00:32<17:22,  8.02s/it]
+infer : ss-8710                                             |   4%|4         || 6/134 [00:48<17:24,  8.16s/it]
+infer : ss-8710                                             |   6%|5         || 8/134 [01:04<17:01,  8.11s/it]
+infer : ss-8710                                             |   7%|7         || 10/134 [01:20<16:40,  8.07s/it]
+infer : ss-8710                                             |   9%|8         || 12/134 [01:36<16:25,  8.08s/it]
+infer : ss-8710                                             |  10%|#         || 14/134 [01:52<16:02,  8.02s/it]
+infer : ss-8710                                             |  12%|#1        || 16/134 [02:09<15:50,  8.06s/it]
+infer : ss-8710                                             |  13%|#3        || 18/134 [02:28<16:27,  8.51s/it]
+infer : ss-8710                                             |  15%|#4        || 20/134 [02:46<16:41,  8.78s/it]
+infer : ss-8710                                             |  16%|#6        || 22/134 [03:02<15:54,  8.53s/it]
+infer : ss-8710                                             |  18%|#7        || 24/134 [03:18<15:21,  8.37s/it]
+infer : ss-8710                                             |  19%|#9        || 26/134 [03:34<14:52,  8.27s/it]
+infer : ss-8710                                             |  21%|##        || 28/134 [03:50<14:29,  8.21s/it]
+infer : ss-8710                                             |  22%|##2       || 30/134 [04:09<14:38,  8.45s/it]
+infer : ss-8710                                             |  24%|##3       || 32/134 [04:25<14:10,  8.34s/it]
+infer : ss-8710                                             |  25%|##5       || 34/134 [04:41<13:42,  8.22s/it]
+infer : ss-8710                                             |  27%|##6       || 36/134 [04:58<13:43,  8.40s/it]
+infer : ss-8710                                             |  28%|##8       || 38/134 [05:15<13:21,  8.35s/it]
+infer : ss-8710                                             |  30%|##9       || 40/134 [05:31<13:03,  8.33s/it]
+infer : ss-8710                                             |  31%|###1      || 42/134 [05:48<12:41,  8.28s/it]
+infer : ss-8710                                             |  33%|###2      || 44/134 [06:06<12:50,  8.56s/it]
+infer : ss-8710                                             |  34%|###4      || 46/134 [06:22<12:24,  8.46s/it]
+infer : ss-8710                                             |  36%|###5      || 48/134 [06:38<11:56,  8.33s/it]
+infer : ss-8710                                             |  37%|###7      || 50/134 [06:55<11:36,  8.30s/it]
+infer : ss-8710                                             |  39%|###8      || 52/134 [07:11<11:09,  8.16s/it]
+infer : ss-8710                                             |  40%|####      || 54/134 [07:26<10:45,  8.07s/it]
+infer : ss-8710                                             |  42%|####1     || 56/134 [07:42<10:22,  7.98s/it]
+infer : ss-8710                                             |  43%|####3     || 58/134 [07:57<10:02,  7.93s/it]
+infer : ss-8710                                             |  45%|####4     || 60/134 [08:13<09:43,  7.88s/it]
+infer : ss-8710                                             |  46%|####6     || 62/134 [08:29<09:28,  7.89s/it]
+infer : ss-8710                                             |  48%|####7     || 64/134 [08:46<09:22,  8.04s/it]
+infer : ss-8710                                             |  49%|####9     || 66/134 [09:02<09:05,  8.02s/it]
+infer : ss-8710                                             |  51%|#####     || 68/134 [09:20<09:16,  8.42s/it]
+infer : ss-8710                                             |  52%|#####2    || 70/134 [09:36<08:51,  8.30s/it]
+infer : ss-8710                                             |  54%|#####3    || 72/134 [09:52<08:26,  8.17s/it]
+infer : ss-8710                                             |  55%|#####5    || 74/134 [10:08<08:02,  8.04s/it]
+infer : ss-8710                                             |  57%|#####6    || 76/134 [10:24<07:47,  8.06s/it]
+infer : ss-8710                                             |  58%|#####8    || 78/134 [10:41<07:37,  8.18s/it]
+infer : ss-8710                                             |  60%|#####9    || 80/134 [10:56<07:14,  8.05s/it]
+infer : ss-8710                                             |  61%|######1   || 82/134 [11:12<06:56,  8.01s/it]
+infer : ss-8710                                             |  63%|######2   || 84/134 [11:28<06:38,  7.97s/it]
+infer : ss-8710                                             |  64%|######4   || 86/134 [11:43<06:19,  7.91s/it]
+infer : ss-8710                                             |  66%|######5   || 88/134 [11:59<06:01,  7.86s/it]
+infer : ss-8710                                             |  67%|######7   || 90/134 [12:14<05:45,  7.85s/it]
+infer : ss-8710                                             |  69%|######8   || 92/134 [12:30<05:28,  7.81s/it]
+infer : ss-8710                                             |  70%|#######   || 94/134 [12:46<05:14,  7.86s/it]
+infer : ss-8710                                             |  72%|#######1  || 96/134 [13:01<04:58,  7.84s/it]
+infer : ss-8710                                             |  73%|#######3  || 98/134 [13:17<04:42,  7.83s/it]
+infer : ss-8710                                             |  75%|#######4  || 100/134 [13:33<04:25,  7.82s/it]
+infer : ss-8710                                             |  76%|#######6  || 102/134 [13:48<04:09,  7.81s/it]
+infer : ss-8710                                             |  78%|#######7  || 104/134 [14:04<03:54,  7.81s/it]
+infer : ss-8710                                             |  79%|#######9  || 106/134 [14:20<03:42,  7.93s/it]
+infer : ss-8710                                             |  81%|########  || 108/134 [14:36<03:26,  7.95s/it]
+infer : ss-8710                                             |  82%|########2 || 110/134 [14:52<03:10,  7.95s/it]
+infer : ss-8710                                             |  84%|########3 || 112/134 [15:08<02:56,  8.02s/it]
+infer : ss-8710                                             |  85%|########5 || 114/134 [15:24<02:39,  7.95s/it]
+infer : ss-8710                                             |  87%|########6 || 116/134 [15:40<02:23,  7.96s/it]
+infer : ss-8710                                             |  88%|########8 || 118/134 [15:56<02:06,  7.91s/it]
+infer : ss-8710                                             |  90%|########9 || 120/134 [16:11<01:50,  7.86s/it]
+infer : ss-8710                                             |  91%|#########1|| 122/134 [16:27<01:33,  7.83s/it]
+infer : ss-8710                                             |  93%|#########2|| 124/134 [16:42<01:18,  7.86s/it]
+infer : ss-8710                                             |  94%|#########4|| 126/134 [16:59<01:03,  7.94s/it]
+infer : ss-8710                                             |  96%|#########5|| 128/134 [17:14<00:47,  7.88s/it]
+infer : ss-8710                                             |  97%|#########7|| 130/134 [17:30<00:31,  7.86s/it]
+infer : ss-8710                                             |  99%|#########8|| 132/134 [17:46<00:15,  7.99s/it]
+infer : ss-8710                                             | 100%|##########|| 134/134 [18:02<00:00,  7.93s/it]
+infer : ss-8710                                             | 100%|##########|| 134/134 [18:02<00:00,  8.08s/it]
+
+INFO:20250703-142311: infer completed  - ss-8710 - 1083 sec
+
+SUCCESS:20250703-142313: benchmark results - {'infer_path': 'ss-8710', 'accuracy_mean_iou%': 86.768604, 'num_subgraphs': 1, 'infer_time_core_ms': 8000.129137, 'infer_time_subgraph_ms': 8000.054895, 'ddr_transfer_mb': 0.0, 'perfsim_time_ms': 7.50896, 'perfsim_ddr_transfer_mb': 46.29, 'perfsim_gmacs': 3.0949}

@@ -1,0 +1,13 @@
+inFileFormat    = 1
+numFrames   = 4
+postProcType   = 0
+postProcDataId   = 0
+quantRangeUpdateFactor   = -1.000000
+inData   = /home/giovanna/Documentos/IC/NPU_development/custom-artifacts/onnx/tempDir/subgraph_0_calib_raw_data.bin
+outData   = "/home/giovanna/Documentos/IC/NPU_development/custom-artifacts/onnx/tempDir/subgraph_0_tidl_io__stats_tool_out.bin"
+netBinFile     = /home/giovanna/Documentos/IC/NPU_development/custom-artifacts/onnx/tempDir/subgraph_0_tidl_net.bin
+ioConfigFile        = /home/giovanna/Documentos/IC/NPU_development/custom-artifacts/onnx/tempDir/subgraph_0_tidl_io_1.bin
+writeTraceLevel        = 0
+debugTraceLevel        = 0
+traceDumpBaseName        = "/home/giovanna/Documentos/IC/NPU_development/custom-artifacts/onnx/tempDir/subgraph_0_tidl_io_
+flowCtrl               = 35
